@@ -27,6 +27,7 @@ Good luck
 * The cleaner your code the better!
 * Googling is fine as usual
 
+
 ### Tips
 
 * Use the ruby docs http://www.ruby-doc.org/core-2.0.0/String.html
